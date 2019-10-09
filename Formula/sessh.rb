@@ -1,7 +1,7 @@
 class Sessh < Formula
     homepage "https://github.com/QtonSolutions/sessh"
-    url "https://github.com/QtonSolutions/sessh/releases/download/v1.0.0-beta.30/sessh-v1.0.0-beta.30-osx.gz"
-    sha256 "3feb1fb11de03ec798e3ac9a37ea08ec4b61a9c1d3ff630ae46a3502f38aee7d"
+    url "https://github.com/QtonSolutions/sessh/releases/download/v1.0.0-beta.31/sessh-v1.0.0-beta.31-osx.gz"
+    sha256 "4e69053aa4b52406353d8f92475287bc2b6f41119ad03d6dfd2fa3dbed1aaec7"
 
     bottle :unneeded
 
